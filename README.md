@@ -61,13 +61,11 @@ The evaluation consists of a final work at the end of the course.
 |5|01/12/2024|Friday|08:00-11:30| NLP| <ul>  <li> GPT-4 </li>   <li> Transformers </li>   </ul> 
 
 ## IX. Groups
-
-| group1               | group2                          | group3                     | group4                            | group5                      | group6                             | group7                           | group8                        |  
-|----------------------|---------------------------------|----------------------------|-----------------------------------|-----------------------------|------------------------------------|----------------------------------|------------------------------|
-| RUBEN ROJAS AYALA    | JOSE MIGUEL POEMAPE COSANATAN   | CHE VICTOR TORRES LOPEZ    | ABRAHAM ALBERTH CALDERON CANICOBA | GIORDANO ALAIN MEDINA MONTES | ISMAEL BARUJ GONZALES REVILLA      | ILENIA ALEJANDRA TTITO COLLANTES | NICOLAS ALBERTO VELARDE FREUNDT |         
-| DANIEL MAX RAMIREZ CHAVEZ | JHUNNIOR STEVENS SAENZ ALTAMIRANO | FERNANDO CARLOS TEMPLO VIENA | DIEGO FERNANDO GUTIERREZ PARRE√ëO | ANGIE ZOILA ABAD ALVARADO    | CARLOS EDUARDO BORJA SOTOMAYOR     | JAMES CARLOS MEDINA VANINI      | FERNANDO MIGUEL MENDOZA CANAL |   
-| JOSUE ALBERTO RICAPA SANCHEZ | GONZALO JESUS ORME√ëO MARREROS  | CARLOS RODRIGO MENDOZA GOMEZ | SILVANA SHANTAL BLANCO ATAU       | JUAN DIEGO LINARES JAIME     | ALEXANDER SEBASTIAN ESPINOZA COLCA | RAFAEL ANTONIO VARGAS PORTOCARRERO | ALVARO FRANCO GAMONAL MIRANDA | 
-| ALESSANDRO DEL PIERO BURGOS CAMPOMANEZ | ARMANDO JAVIER PINEDA ALIAGA    | DANIELA LUCIA OCHOA SALAS    | ANTHONY PEDRO MAMANI NAVARRO      | MARILIA ARIZAPANA HINOSTROZA | JOSE MARIA SEBASTIAN TAMAYO MARTINEZ | ANA LUCIA DEL RIO SANTOS         |      MARICIELO MEZARINA                        |              
+| group1               | group2                          | group3                     | group4                            | group5                      | group6                             | 
+|----------------------|---------------------------------|----------------------------|-----------------------------------|-----------------------------|------------------------------------|
+| AGUILA ANCCO, ANDERSON JHOSAFAT  |MENDOZA PAUCAR, AJHAX ANDRE   |RAMOS SANTOS, YENIFER MADELEINH    | MENDOZA GOMEZ, CARLOS RODRIGO| DE LA CRUZ LAVADO, ZARIT DAFRA| VASQUEZ BAJONERO, MARIA FERNANDA    |         
+| RAMIREZ CELESTINO, JOAQUIN ANTONIO| QUIJANO COLCHADO, GUSTAVO ALONSO | BORJA SOTOMAYOR, CARLOS EDUARDO | GOMEZ FLORES, AMANDA VALERY| BAUTISTA ZANABIO, SHEYLA TAMARA | VASQUEZ BALLEN, PIERO ANDRES   | 
+|ALZAMORA HUAMAN, NICOLE GABRIELA |RODRIGUEZ RAMIREZ, ARIANA JIMENA | SURCO FLORES, PABLO RUBEN |  VILLASANTE CARCAMO, MIGUEL LELIS   |GONZALEZ OLIVA, RODRIGO ALONSO   | ANTUNEZ SANCHEZ, MILLARY MADELEINE|           
 
 ## X. Website
 
