@@ -54,20 +54,19 @@ The evaluation consists of a final work at the end of the course.
 
 |Week|Date|Day|Schedule|Topic|Subtopic
 |---|---|---|---|---|---
-|1|01/03/2024|Wednesday|08:00-11:00| Github - Basic Objects| <ul>  <li>Installation</li>   <li>Branches</li>   <li>Repository </li> <li>Lists</li>   <li>Dictionaries</li>   <li>NumPy </li> </ul>   
-|2|01/05/2025|Friday|08:00-11:00| Pandas | <ul>  <li> Series </li>   <li>Indexing</li>   <li>Importing Data </li> <li> Data wrangling </li> </ul>      
-|3|01/08/2024|Monday|08:00-11:00 | Control Structures, Functions and Classes| <ul>  <li> If condition </li>   <li> For loop</li>   <li> While Loop</li> <li> Function Definitions </li>   <li> *args and **kwwargs </li>   <li> \_init_</li> <li> Attributes and Methods</li> </ul>    
-|4|01/10/2024|Wednesday|08:00-11:30| APIs| <ul>  <li>Google Directions</li>   <li>Geolocation</li> <li>Finance APIs</li> </ul>   
-|5|01/12/2024|Friday|08:00-11:30| NLP| <ul>  <li> GPT-4 </li>   <li> Transformers </li>   </ul> 
+|1|03/01/2025|Wednesday|08:00-11:00| Github - Basic Objects| <ul>  <li>Installation</li>   <li>Branches</li>   <li>Repository </li> <li>Lists</li>   <li>Dictionaries</li>   <li>NumPy </li> </ul>   
+|2|06/01/2025|Friday|08:00-11:00| Pandas | <ul>  <li> Series </li>   <li>Indexing</li>   <li>Importing Data </li> <li> Data wrangling </li> </ul>      
+|3|08/01/2025|Monday|08:00-11:00 | Control Structures, Functions and Classes| <ul>  <li> If condition </li>   <li> For loop</li>   <li> While Loop</li> <li> Function Definitions </li>   <li> *args and **kwwargs </li>   <li> \_init_</li> <li> Attributes and Methods</li> </ul>    
+|4|10/01/2025|Wednesday|08:00-11:30| APIs| <ul>  <li>Google Directions</li>   <li>Geolocation</li> <li>Finance APIs</li> </ul>   
+|5|11/01/2025|Friday|08:00-11:30| NLP| <ul>  <li> GPT-4 </li>   <li> Transformers </li>   </ul> 
 
 ## IX. Groups
 
-| group1               | group2                          | group3                     | group4                            | group5                      | group6                             | group7                           | group8                        |  
-|----------------------|---------------------------------|----------------------------|-----------------------------------|-----------------------------|------------------------------------|----------------------------------|------------------------------|
-| RUBEN ROJAS AYALA    | JOSE MIGUEL POEMAPE COSANATAN   | CHE VICTOR TORRES LOPEZ    | ABRAHAM ALBERTH CALDERON CANICOBA | GIORDANO ALAIN MEDINA MONTES | ISMAEL BARUJ GONZALES REVILLA      | ILENIA ALEJANDRA TTITO COLLANTES | NICOLAS ALBERTO VELARDE FREUNDT |         
-| DANIEL MAX RAMIREZ CHAVEZ | JHUNNIOR STEVENS SAENZ ALTAMIRANO | FERNANDO CARLOS TEMPLO VIENA | DIEGO FERNANDO GUTIERREZ PARRE√ëO | ANGIE ZOILA ABAD ALVARADO    | CARLOS EDUARDO BORJA SOTOMAYOR     | JAMES CARLOS MEDINA VANINI      | FERNANDO MIGUEL MENDOZA CANAL |   
-| JOSUE ALBERTO RICAPA SANCHEZ | GONZALO JESUS ORME√ëO MARREROS  | CARLOS RODRIGO MENDOZA GOMEZ | SILVANA SHANTAL BLANCO ATAU       | JUAN DIEGO LINARES JAIME     | ALEXANDER SEBASTIAN ESPINOZA COLCA | RAFAEL ANTONIO VARGAS PORTOCARRERO | ALVARO FRANCO GAMONAL MIRANDA | 
-| ALESSANDRO DEL PIERO BURGOS CAMPOMANEZ | ARMANDO JAVIER PINEDA ALIAGA    | DANIELA LUCIA OCHOA SALAS    | ANTHONY PEDRO MAMANI NAVARRO      | MARILIA ARIZAPANA HINOSTROZA | JOSE MARIA SEBASTIAN TAMAYO MARTINEZ | ANA LUCIA DEL RIO SANTOS         |      MARICIELO MEZARINA                        |              
+| group1               | group2                          | group3                     | group4                            | group5                      | group6                             | 
+|----------------------|---------------------------------|----------------------------|-----------------------------------|-----------------------------|------------------------------------|
+| AGUILA ANCCO, ANDERSON JHOSAFAT  |MENDOZA PAUCAR, AJHAX ANDRE   |RAMOS SANTOS, YENIFER MADELEINH    | MENDOZA GOMEZ, CARLOS RODRIGO| DE LA CRUZ LAVADO, ZARIT DAFRA| VASQUEZ BAJONERO, MARIA FERNANDA    |         
+| RAMIREZ CELESTINO, JOAQUIN ANTONIO| QUIJANO COLCHADO, GUSTAVO ALONSO | BORJA SOTOMAYOR, CARLOS EDUARDO | GOMEZ FLORES, AMANDA VALERY| BAUTISTA ZANABIO, SHEYLA TAMARA | VASQUEZ BALLEN, PIERO ANDRES   | 
+|ALZAMORA HUAMAN, NICOLE GABRIELA |RODRIGUEZ RAMIREZ, ARIANA JIMENA | SURCO FLORES, PABLO RUBEN |  VILLASANTE CARCAMO, MIGUEL LELIS   |GONZALEZ OLIVA, RODRIGO ALONSO   | ANTUNEZ SANCHEZ, MILLARY MADELEINE|                      
 
 ## X. Website
 
